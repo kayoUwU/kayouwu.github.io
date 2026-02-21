@@ -191,7 +191,7 @@ footer {
 }
 .project:hover {
     color: white;
-    background-color: cornflowerblue;
+    background-color: #2f2f2f;
     /* grid-row: span 2; */
     animation: gridGrowHeight 1s ease-out both;
 }
